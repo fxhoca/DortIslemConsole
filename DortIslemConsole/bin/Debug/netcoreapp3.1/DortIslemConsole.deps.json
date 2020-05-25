@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DortIslemConsole/1.0.0": {
+        "runtime": {
+          "DortIslemConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DortIslemConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

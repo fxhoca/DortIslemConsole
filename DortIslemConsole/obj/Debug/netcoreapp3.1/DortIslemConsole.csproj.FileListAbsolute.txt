@@ -1,0 +1,13 @@
+C:\Users\Servers\source\repos\DortIslemConsole\DortIslemConsole\bin\Debug\netcoreapp3.1\DortIslemConsole.exe
+C:\Users\Servers\source\repos\DortIslemConsole\DortIslemConsole\bin\Debug\netcoreapp3.1\DortIslemConsole.deps.json
+C:\Users\Servers\source\repos\DortIslemConsole\DortIslemConsole\bin\Debug\netcoreapp3.1\DortIslemConsole.runtimeconfig.json
+C:\Users\Servers\source\repos\DortIslemConsole\DortIslemConsole\bin\Debug\netcoreapp3.1\DortIslemConsole.runtimeconfig.dev.json
+C:\Users\Servers\source\repos\DortIslemConsole\DortIslemConsole\bin\Debug\netcoreapp3.1\DortIslemConsole.dll
+C:\Users\Servers\source\repos\DortIslemConsole\DortIslemConsole\bin\Debug\netcoreapp3.1\DortIslemConsole.pdb
+C:\Users\Servers\source\repos\DortIslemConsole\DortIslemConsole\obj\Debug\netcoreapp3.1\DortIslemConsole.csprojAssemblyReference.cache
+C:\Users\Servers\source\repos\DortIslemConsole\DortIslemConsole\obj\Debug\netcoreapp3.1\DortIslemConsole.csproj.CoreCompileInputs.cache
+C:\Users\Servers\source\repos\DortIslemConsole\DortIslemConsole\obj\Debug\netcoreapp3.1\DortIslemConsole.AssemblyInfoInputs.cache
+C:\Users\Servers\source\repos\DortIslemConsole\DortIslemConsole\obj\Debug\netcoreapp3.1\DortIslemConsole.AssemblyInfo.cs
+C:\Users\Servers\source\repos\DortIslemConsole\DortIslemConsole\obj\Debug\netcoreapp3.1\DortIslemConsole.dll
+C:\Users\Servers\source\repos\DortIslemConsole\DortIslemConsole\obj\Debug\netcoreapp3.1\DortIslemConsole.pdb
+C:\Users\Servers\source\repos\DortIslemConsole\DortIslemConsole\obj\Debug\netcoreapp3.1\DortIslemConsole.genruntimeconfig.cache
